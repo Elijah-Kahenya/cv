@@ -1,19 +1,39 @@
 body {
-  background-color: #EAF6F6;
+  background-color: white;
+  margin: 0;
 }
-hr {
-  border-style: dotted none none;
-  border-color: grey;
-  border-width: 10px;
-  height: 0px;
-  width: 40%;
+.profile{
+  padding-left: 10%;
 }
+
 h1 {
-  color: #66bfbf;
+  color: #3151ce;
 }
 h3 {
   color: #66bfbf;
 }
 h2 {
   color: #66bfbf;
+}
+.introduction{
+  padding-left: 10%;
+  padding-right: 10%;
+height: 100vh;
+
+  background-color: #CC9544;
+}
+
+.educational{
+  padding-left: 25%;
+  padding-right: 25%;
+  height: 100vh;
+  background-color: #603601;
+
+
+}
+.other{
+
+  padding: 3px 30% 10% 30%;
+  height: auto;
+  background-color: #361500;
 }
