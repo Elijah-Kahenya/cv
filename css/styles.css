@@ -35,6 +35,10 @@ a{
 a:hover{
   color: #eaf6f6;
 }
+.start{
+  margin: auto;
+  margin-top: 50%
+}
 .top-medical{
   width: 15%;
   position:absolute;
@@ -44,8 +48,8 @@ a:hover{
 .bottom-medical{
   width: 15%;
   position:absolute;
-  bottom: 40;
-  left: 100px;
+top: 40px;
+  left: 40px;
 }
 .profile{
   padding-top: 10%;
@@ -77,7 +81,7 @@ margin: 100px 0;
   text-align: left;
 }
 .name{
-  margin-top: 0 auto 0;
+  margin: auto auto ;
   font-family: fantasy;
 }
 hr{
